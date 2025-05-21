@@ -4,26 +4,17 @@
 }
 
 body{
-    background-color: rgb(88, 88, 255);
-}
-
-.container-sm {
-    background-color: rgb(154, 154, 255);
-    padding: 20px;
-    border-radius: 20px;
-    text-align: center
+    background-color: #ae00ff;
 }
 
 .container {
-    background-color: rgb(154, 154, 255);
+    background-color: #7e1cab;
     padding: 40px;
-    border-radius: 20px;
     text-align: center
 }
 
 img {
-    border-radius: 20%;
-    border: 5px solid #00225E;
+    width: 100px;
 }
 
 .footer {
